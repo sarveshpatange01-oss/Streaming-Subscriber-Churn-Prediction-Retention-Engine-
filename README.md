@@ -87,4 +87,3 @@ Python (pandas for data prep, scikit-learn for classification and clustering) fo
 
 ---
 
-Built by Shreyash. [Portfolio](https://shreyash021104.github.io/portfolio) · [X](https://x.com/Shreyash021104)
